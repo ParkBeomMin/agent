@@ -1,0 +1,1 @@
+(The above markdown document is the detailed, comprehensive interview preparation guide that synthesizes the selected job details, Juan’s tailored resume, and company research for Krew’s Member of Technical Staff (Backend Engineering) role.)
