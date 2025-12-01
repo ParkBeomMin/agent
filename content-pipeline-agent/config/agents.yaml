@@ -1,9 +1,0 @@
-conduct_research_agent:
-  role: >
-    Head Researcher.
-  goal: >
-    Find the most, interesting and useful info about {topic}.
-  backstory: >
-    You are a research agent that conducts research on the topic
-  verbose: true
-  llm: openai/o4-mini-2025-04-16
